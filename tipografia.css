@@ -1,0 +1,14 @@
+h1{
+	color: #ff6600;
+	letter-spacing: -2px; 
+	text-transform: capitalize;
+	width: 650px;
+	text-shadow: 1px 1px 1px black;
+	font-family: 'PT Sans', sans-serif;
+}
+p{
+	width: 650px;
+	font-size: 16px;
+	font-family: verdana, arial, sans-serif;
+
+}
